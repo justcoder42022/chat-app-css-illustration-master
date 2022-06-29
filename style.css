@@ -252,7 +252,7 @@ section{
     max-width: 45ch;
     padding-inline: 1rem;
 }
-section h1{
+section h2{
     color: var(--Very-Dark-Desaturated-Violet);
     font-size: 3.6rem;
     font-weight: 700;
